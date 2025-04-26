@@ -1,6 +1,6 @@
 package com.sensuscorp.temperature.processing;
 
-import com.sensuscorp.temperature.processing.commom.IdGenerator;
+import com.sensuscorp.temperature.processing.common.IdGenerator;
 import org.junit.jupiter.api.Test;
 
 import java.util.UUID;

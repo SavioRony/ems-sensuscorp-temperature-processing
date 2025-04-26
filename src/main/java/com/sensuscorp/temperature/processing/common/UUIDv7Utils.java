@@ -1,4 +1,4 @@
-package com.sensuscorp.temperature.processing.commom;
+package com.sensuscorp.temperature.processing.common;
 
 import java.time.Instant;
 import java.time.OffsetDateTime;

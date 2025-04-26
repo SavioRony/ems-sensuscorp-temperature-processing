@@ -1,4 +1,4 @@
-package com.sensuscorp.temperature.processing.commom;
+package com.sensuscorp.temperature.processing.common;
 
 import com.fasterxml.uuid.Generators;
 import com.fasterxml.uuid.impl.TimeBasedEpochRandomGenerator;

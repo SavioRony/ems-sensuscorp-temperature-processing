@@ -1,7 +1,7 @@
 package com.sensuscorp.temperature.processing.api.controller;
 
 import com.sensuscorp.temperature.processing.api.model.TemperatureLogOutput;
-import com.sensuscorp.temperature.processing.commom.IdGenerator;
+import com.sensuscorp.temperature.processing.common.IdGenerator;
 import io.hypersistence.tsid.TSID;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;
